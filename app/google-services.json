@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "299478424172",
+    "project_id": "mydocxy-57a5e",
+    "storage_bucket": "mydocxy-57a5e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299478424172:android:a445bd09bbe35f67ec9649",
+        "android_client_info": {
+          "package_name": "com.example.mydocxy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299478424172-t9o4nkj9pg3mdrhe6kn6bcjo9ulc9ncs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mydocxy",
+            "certificate_hash": "1eb190e106a2f54d3c731e6a1d2c04d52c20777e"
+          }
+        },
+        {
+          "client_id": "299478424172-2aphfdidp8eo6o8l3p12ppdgi4runs2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhAtG6RpqGFELUpVY_AWVdZ1M8LMdmrH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299478424172-2aphfdidp8eo6o8l3p12ppdgi4runs2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
